@@ -4,14 +4,15 @@
 **Senior WordPress Engineer · PHP Engineer**
 
 Remote-first · Based in Portugal, Currently in GMT+7
-20+ years in production web systems  
+
+20+ years in production web systems
+
 200+ projects delivered across the world
 
 
 ## About me
 
 I design and evolve WordPress systems that operate under real production pressure.
-
 
 I’ve worked with startups, agencies, e-commerce brands, and large-scale media platforms, helping them modernize legacy systems, stabilize deployments, and scale without breaking editorial workflows.
 
