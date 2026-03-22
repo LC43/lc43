@@ -36,8 +36,6 @@ I focus on building systems that remain extensible years after launch.
 - WordPress Core architecture
 - Custom plugin & framework engineering
 - REST API design & integrations
-- Data modeling & normalization
-- High-performance MySQL usage
 
 ### Frontend
 - React
@@ -52,8 +50,6 @@ I focus on building systems that remain extensible years after launch.
 - Release lifecycle management
 - Production stability engineering
 - Refactoring strategies for long-lived platforms
-
-
 
 ---
 
