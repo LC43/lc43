@@ -36,7 +36,7 @@ Go try it at [alkimas.com](https://alkimas.com/)
 
 ## What I did recently
 
-We love maps, and we built a suite of tools for those who share the same passion and deal with geojson every day.
+We love maps, and we are building a suite of tools for those who share the same passion and deal with geojson every day.
 
 [<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/getlong.lat.png" width="300" height="300"/>](https://getlong.lat/)
 
