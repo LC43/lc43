@@ -18,6 +18,12 @@ I’ve worked with startups, agencies, e-commerce brands, and large-scale media 
 
 I focus on building systems that remain extensible years after launch.
 
+## What I Just Did
+
+I just launched a tool to convert between currencies using alchemy! ( not really, but its really handy )
+Go try it at [alkimas.com](https://alkimas.com/)
+
+[<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/alkimas-header.png" width="300" height="300"/>](https://alkimas.com/)
 
 ## What I Do
 
@@ -27,6 +33,16 @@ I focus on building systems that remain extensible years after launch.
 - Implement headless / decoupled architectures
 - Optimize performance-critical rendering paths
 - Reduce technical debt without halting product velocity
+
+## What I did recently
+
+We love maps, and we built a suite of tools for those who share the same passion and deal with geojson every day.
+
+[<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/getlong.lat.png" width="300" height="300"/>](https://getlong.lat/)
+
+And if you use WordPress, we have our own plugin to create beautiful globes for your website
+
+[<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/wpinteractiveglobes.com.png" width="300" height="300"/>](https://wpinteractiveglobes.com/)
 
 ---
 ## curriculum vitae ( CV )
@@ -51,4 +67,4 @@ Remote Senior WordPress / Platform Engineering roles where:
 🌐 https://goodomens.studio  
 🔗 https://www.linkedin.com/in/pedrolcarvalho 
 
-Enjoy photography 📸 ? Let's [connect in ig 💬 ](https://www.instagram.com/pedro.stories) 
+Enjoy photography 📸 ? Let's [connect on ig 💬 ](https://www.instagram.com/pedro.stories) 
