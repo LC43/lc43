@@ -42,7 +42,7 @@ We love maps, and we built a suite of tools for those who share the same passion
 
 And if you use WordPress, we have our own plugin to create beautiful globes for your website
 
-[<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/wpinteractiveglobes.com.png" width="300" height="300"/>](https://wpinteractiveglobes.com/)
+[<img src="https://github.com/LC43/pedrocarvalho/blob/main/assets/images/wpinteractiveglobes.com.jpg" width="300" height="300"/>](https://wpinteractiveglobes.com/)
 
 ---
 ## curriculum vitae ( CV )
