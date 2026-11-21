@@ -3,7 +3,7 @@
 
 **Senior WordPress Engineer · PHP Engineer**
 
-Remote-first · Based in Portugal, Currently in GMT+7
+Remote-first · Based in Portugal, Currently in GMT+0
 
 20+ years in production web systems
 
